@@ -3,7 +3,7 @@
 
 - 🔭 I am using Technology and business leadership to address Social Justice with an emphasis on economics. 
   - My current primary role is consoluting and coding at DelveFore in a leadership and individual contirubtor capactiy. 
-  - In the last several years I have coached and moentored more than 100 software engineers and working on a mentor and coaching platform to improve benefits of all involved in that process.
+  - In the last several years I have coached and mentored more than 100 software engineers and working on a mentor and coaching platform to improve benefits of all involved in that process.
 
 - 🌱 I’m currently learning so much from those around but a few highlights include leveraging fintech solutions and how to use Riverpod more efficiently.
 
