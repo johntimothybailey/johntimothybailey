@@ -12,4 +12,4 @@
 - 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
 
 
-## Stay tooned for my contributions to coming YouTube channel!
+## Stay tooned for my contributions to a coming new YouTube channel!
