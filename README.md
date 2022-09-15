@@ -18,6 +18,9 @@
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I am the oldest of five children that were all homeschooled. Two of us are involved in technology and all of us are best of friends.
+  - I ❤️ learning languages (both human and programming)
+  - I ❤️ learning from others thier philosophies and the implications of those ideas in society
+  - I ❤️ discovering how storytelling ideas embaraced in business help build better teams and hiring processes. 
 
 - 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. 
   - Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
