@@ -10,3 +10,4 @@
 - 📫 Message me at john@delvefore.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am the oldest of five children that were all homeschooled. Two of us are involved in technology and all of us are best of friends.
+- My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps
