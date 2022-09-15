@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact: I am the oldest of five children that were all homeschooled. Two of us are involved in technology and all of us are best of friends.
 
-- 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
+- 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. 
+  - Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
 
 
 ## Stay tooned for my contributions to a coming new YouTube channel!
