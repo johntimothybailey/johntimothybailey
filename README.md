@@ -25,5 +25,8 @@
 - 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. 
   - Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
 
+## Articles
+- [Crispin annoucement](https://dev.to/yamanu/crispin-logger-facade-for-flutter-1mn4)
 
-## Stay tooned for my contributions to a coming new YouTube channel!
+## Stay tooned...
+Contriutions to a new YouTube channel!
