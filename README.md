@@ -22,9 +22,6 @@
   - I ❤️ learning from others thier philosophies and the implications of those ideas in society
   - I ❤️ discovering how storytelling ideas embaraced in business help build better teams and hiring processes. 
 
-- 🤖 My most recent favorite technology is Flutter and Dart for the speed of development for Mobile and Desktop apps. 
-  - Additionally, I am excited to use [React Native's new architecture](https://reactnative.dev/docs/the-new-architecture/why) in the near future
-
 ## Articles
 - [Crispin annoucement](https://dev.to/yamanu/crispin-logger-facade-for-flutter-1mn4)
 
