@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on Social Justice through technology and growing companies that address social injustice in ecomoincs.
 
-- 🤔 I’m looking for help with the Flutter / Dart logger facade [Crispin](https://docs.page/delvefore/crispin)
-
 - 💬 Ask me about what I'm learning, my current technology, and why I listen to a lot of audio books.
 
 - 🧑‍🤝‍🧑 📫 If you are looking for Software Coaching or my Mentorship Program please message me at john@delvefore.com
